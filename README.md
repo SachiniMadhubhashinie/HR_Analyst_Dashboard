@@ -16,3 +16,37 @@ This HR Analytics Dashboard provides a clear overview of employee distribution, 
 <h2>Technology Stack</h2>
 Data Storage : CSV File<br>
 Visualization	: Power BI
+
+<h2>Key Performance Indicators (KPIs)</h2>
+<p>These metrics are essential for measuring the health of the workforce and the success of retention efforts:</p>
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>KPI</th>
+      <th>Business Significance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Attrition Rate</td>
+      <td>The most critical measure of workforce stability.</td>
+    </tr>
+    <tr>
+      <td>Average Tenure</td>
+      <td>Indicates long-term employee engagement and retention success.</td>
+    </tr>
+    <tr>
+      <td>Engagement Score</td>
+      <td>Measures how connected and happy employees are.</td>
+    </tr>
+    <tr>
+      <td>Performance Gap</td>
+      <td>Identifies high and low-performing organizational units.</td>
+    </tr>
+    <tr>
+      <td>Salary Hike Effectiveness</td>
+      <td>Tests if compensation increases are adequately motivating employees to stay.</td>
+    </tr>
+  </tbody>
+</table>
+
