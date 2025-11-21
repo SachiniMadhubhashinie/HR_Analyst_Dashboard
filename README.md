@@ -89,6 +89,26 @@ Visualization	: Power BI
   </tbody>
 </table>
 
+<h2>Key Insights & Recommendations</h2>
+<p>Based on HR attrition data, here are key findings and recommendations:</p>
+
+<h3>Key Insights</h3>
+<ul>
+  <li><strong>Overtime Crisis:</strong> Employees reporting Over Time (Yes) have 3X higher attrition, indicating burnout risk.</li>
+  <li><strong>Compensation Sensitivity:</strong> Attrition is higher among employees earning below $5,000/month or receiving low salary hikes (11-13%).</li>
+  <li><strong>High-Risk Roles:</strong> Laboratory Technicians and Sales Representatives show high turnover and low Job Satisfaction (&lt;2.5).</li>
+  <li><strong>Tenure Risk:</strong> Employees with 3-5 years at the company have the highest attrition, highlighting mid-career retention challenges.</li>
+</ul>
+
+<h3>Recommendations</h3>
+<ul>
+  <li><strong>Mandatory Overtime Audit:</strong> Cap overtime and introduce flex-time or compensatory time-off for high-burnout departments.</li>
+  <li><strong>Targeted Compensation Review:</strong> Adjust salaries for employees earning below $5,000/month and improve low-end salary hikes to boost retention.</li>
+  <li><strong>Role-Specific Engagement:</strong> Offer professional development and mentorship for high-risk roles to increase Job Satisfaction.</li>
+  <li><strong>Mid-Tenure Retention Program:</strong> Launch a 'Three-Year Milestone' program with benefits, stock options, or promotion opportunities for 3-5 year tenure employees.</li>
+</ul>
+
+
 
 
 
