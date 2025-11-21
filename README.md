@@ -50,3 +50,43 @@ Visualization	: Power BI
   </tbody>
 </table>
 
+<h2>Chart Requirements and Analysis</h2>
+<p>To thoroughly analyze the attrition problem, the following visualizations are required:</p>
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Chart Type</th>
+      <th>Analysis Goal</th>
+      <th>Data Columns Required</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Density/Box Plots</td>
+      <td>Distribution of Monthly Income and Total Working Years segmented by Attrition</td>
+      <td>Monthly Income, Total Working Years, Attrition</td>
+    </tr>
+    <tr>
+      <td>Bar Chart</td>
+      <td>Attrition Rate by Categorical Features: Job Role, Department, Marital Status, and Over Time</td>
+      <td>Attrition, Categorical Features</td>
+    </tr>
+    <tr>
+      <td>Scatter Plot</td>
+      <td>Relationship between Distance From Home and Attrition</td>
+      <td>Distance From Home, Attrition</td>
+    </tr>
+    <tr>
+      <td>Heatmap/Correlation Matrix</td>
+      <td>Correlation between all numerical satisfaction metrics (Environment Satisfaction, Job Satisfaction, etc.)</td>
+      <td>Numerical Satisfaction Columns</td>
+    </tr>
+    <tr>
+      <td>Pie/Donut Chart</td>
+      <td>Breakdown of Attrition by CF_age band (Age Group)</td>
+      <td>Attrition, CF_age band</td>
+    </tr>
+  </tbody>
+</table>
+
+
