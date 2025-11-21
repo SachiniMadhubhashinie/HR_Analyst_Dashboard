@@ -90,7 +90,7 @@ Visualization	: Power BI
 </table>
 
 <h2>Key Insights & Recommendations</h2>
-<p>Based on HR attrition data, here are key findings and recommendations:</p>
+
 
 <h3>Key Insights</h3>
 <ul>
