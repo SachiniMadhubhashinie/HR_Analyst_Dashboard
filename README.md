@@ -5,4 +5,10 @@ This HR Analytics Dashboard provides a clear overview of employee distribution, 
 <p>This project utilizes organizational HR data to conduct a deep analysis of employee behavior, satisfaction, and performance metrics. The primary objective is to identify factors contributing to Attrition, understand the relationship between job satisfaction and employee roles, and provide data-driven recommendations to improve retention and overall workforce performance.</p>
 
 
-
+<h2>Problem Statement</h2>
+<ul>
+  <li>What are the primary demographic, job-related, and satisfaction factors that correlate most strongly with Attrition (Yes/No)?</li>
+  <li>How do key metrics like Monthly Income, Total Working Years, and Years At Company differ between employees who stay and those who leave?</li>
+  <li>Which departments and job roles show the highest risk of attrition, especially when combined with factors like Over Time?</li>
+  <li>How does the Performance Rating relate to Percent Salary Hike and job satisfaction metrics?</li>
+</ul>
