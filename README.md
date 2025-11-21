@@ -18,7 +18,7 @@ Data Storage : CSV File<br>
 Visualization	: Power BI
 
 <h2>Key Performance Indicators (KPIs)</h2>
-<p>These metrics are essential for measuring the health of the workforce and the success of retention efforts:</p>
+
 <table border="1" cellspacing="0" cellpadding="5">
   <thead>
     <tr>
