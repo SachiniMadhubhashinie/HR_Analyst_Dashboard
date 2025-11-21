@@ -51,7 +51,7 @@ Visualization	: Power BI
 </table>
 
 <h2>Chart Requirements and Analysis</h2>
-<p>To thoroughly analyze the attrition problem, the following visualizations are required:</p>
+
 <table border="1" cellspacing="0" cellpadding="5">
   <thead>
     <tr>
