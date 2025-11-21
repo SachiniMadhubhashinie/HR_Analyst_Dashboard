@@ -12,3 +12,7 @@ This HR Analytics Dashboard provides a clear overview of employee distribution, 
   <li>Which departments and job roles show the highest risk of attrition, especially when combined with factors like Over Time?</li>
   <li>How does the Performance Rating relate to Percent Salary Hike and job satisfaction metrics?</li>
 </ul>
+
+<h2>Technology Stack</h2>
+Data Storage : CSV File<br>
+Visualization	: Power BI
